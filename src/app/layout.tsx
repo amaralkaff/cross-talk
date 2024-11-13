@@ -2,7 +2,7 @@ import "./globals.css";
 import type { Metadata } from "next";
 import Providers from "../components/providers";
 import { ReactNode } from "react";
-import TopNavbar from "@/components/navbar/TopNavbar";
+import TopNavbar from "@/src/components/navbar/TopNavbar";
 
 
 export const metadata: Metadata = {
